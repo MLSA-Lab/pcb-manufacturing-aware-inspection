@@ -1,9 +1,9 @@
 
-# Manufacturing-Aware PCB Defect Inspection Dataset
+# Manufacturing-Aware Printed Circuit Board Defect Inspection Dataset
 
 ## Associated Publication
 
-**Title:** Manufacturing-Aware Defect–Component Representation for Automated PCB Inspection and Intelligent Quality Assurance
+**Title:** Manufacturing-Aware Defect–Component Representation for Automated Printed Circuit Board Inspection and Intelligent Quality Assurance
 
 **Authors:** Paul Li, Elise Murugasu, Armin Moghaddam, and Fatemeh Davoudi Kakhki
 
@@ -13,7 +13,7 @@
 
 ## Dataset Description
 
-This repository is designated for the annotated PCB inspection dataset developed by the Machine Learning & Safety Analytics (MLSA) Laboratory at Santa Clara University.
+This repository is designated for the annotated printed circuit board (PCB) inspection dataset developed by the Machine Learning & Safety Analytics (MLSA) Laboratory at Santa Clara University.
 
 The dataset consists of 300 raw inspection images from 60 fabricated PCB assemblies, with conventional five-class and manufacturing-aware thirteen-class annotation representations.
 
@@ -25,6 +25,6 @@ The dataset and supporting documentation are intended to be made publicly availa
 
 ## Contact
 
-Fatemeh Davoudi Kakhki
-Santa Clara University
+Fatemeh Davoudi Kakhki  
+Santa Clara University  
 fdavoudikakhki@scu.edu
